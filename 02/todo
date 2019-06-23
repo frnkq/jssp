@@ -1,0 +1,5 @@
+-hacer la form (botones crud)
+-hacer columnas select
+-hacer mrf con option
+
+tsc Entidades/Persona.ts Helpers/FormHelper.ts CRUD/PersonaCrud.ts Program.ts --outFile ../js/script.js

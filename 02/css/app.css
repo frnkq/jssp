@@ -1,0 +1,11 @@
+#formulario
+{
+    position:absolute;
+    background-color:rgba(0,0,0,0.9);
+    display:none;
+    z-index:99;
+}
+table
+{
+    transition: opacity 2s;
+}
