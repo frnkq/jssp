@@ -1,0 +1,15 @@
+#formulario
+{
+    display:none;
+    color:white;
+    position:absolute;
+    z-index:99;
+    background-color:rgba(0,0,0,0.9);
+    margin-left:10%;
+    margin-top:10%;
+    padding:30px;
+}
+#formulario input
+{
+    width:100%;
+}
